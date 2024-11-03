@@ -1,10 +1,17 @@
 <h1>Hi there 👋, I'm Rutchel Lego!</h1>
-<h3>I am passionate about coding and adapt in managing databases, My journey in tech commenced with the BS Information Systems progam.</h3>
+<br>I am Dedicated software developer with a passion for crafting efficient solutions. 
+Results-Oriented developer specializing in database design and optimization.
 
 <h2>Education</h2>
+<h4>Senior High</h4>
+<br>Asian Institute of Computer Studies
+<br> Strand of Information and Communication Technology(ICT)
+<br> A.Y 2021-2023
+
+<h4>College</h4>
 <br>BS Information Systems
 <br> At New Era University
-<br></nr>Present-2024
+<br>Present-2024
 
 <h2>Certification</h2>
 <a href="https://courses.cognitiveclass.ai/certificates/39fbe1cc00f048649c2334409b135411">SQL and Relational Databases 101</a>
