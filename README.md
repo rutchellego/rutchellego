@@ -16,6 +16,7 @@ Results-Oriented developer specializing in database design and optimization.
 <h2>Certification</h2>
 <a href="https://courses.cognitiveclass.ai/certificates/39fbe1cc00f048649c2334409b135411">SQL and Relational Databases 101</a>
 
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FD113F58DC4B99F5077AECCA36AE349DA8BC10076F39E0DAB6C1E59A2E7EF6C5&fbclid=IwY2xjawG-kL5leHRuA2FlbQIxMQABHXo4-8j_wV2VRE43QcghjUvFgDylC0MF3WKAI_DQdShTtFkJ7WbsU5h8fw_aem_gKyQvC_K-3AiBCNBCOw4_Q">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a> 
 <h2>Skill Sets</h2>
 Programming languages: Java, Javascript
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
