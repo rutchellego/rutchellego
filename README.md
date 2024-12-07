@@ -2,7 +2,7 @@
 <br>I am Dedicated software developer with a passion for crafting efficient solutions. 
 Results-Oriented developer specializing in database design and optimization.
 
-<h2>Education</h2>>
+<h2>Education</h2>
 <h4>Senior High</h4>
 <br>📌Asian Institute of Computer Studies
 <br> Strand of Information and Communication Technology(ICT)
